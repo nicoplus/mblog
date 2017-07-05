@@ -2,5 +2,4 @@
 *.py[cod]
 dist
 build
-migrations
 tmp
